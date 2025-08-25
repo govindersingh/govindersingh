@@ -25,7 +25,6 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
   <a href="https://www.linkedin.com/in/govindersingh/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:govind.singh@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail"></a>
   <a href="https://leetcode.com/govindersingh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
-  <a href="https://twitter.com/govindersingh"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter"></a>
 </p>
 
 ---
