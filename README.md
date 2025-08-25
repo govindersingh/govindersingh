@@ -33,6 +33,6 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 
 | Stats 📈 | Streak 🔥 | Languages 🗣️ |
 |---|---|---|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=govindersingh&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=govindersingh&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=govindersingh&theme=gruvbox) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=govindersingh&theme=gruvbox) | ![GitHub Streak](https://streak-stats.demolab.com/?user=govindersingh&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=govindersingh&theme=gruvbox) |
 
 </div>
