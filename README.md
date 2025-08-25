@@ -15,7 +15,7 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 - 👯 I’m looking to collaborate with developers who are passionate about building scalable backend systems, love open-source, or have cool side-project ideas.
 - 🤔 I’m looking for help with advanced **DevOps practices** and **cloud-native architectures**.
 - 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, system design, or scaling backend applications**!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/govindersingh/), [Email](mailto:govind.singh@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/govindersingh/), [Email](mailto:govindersingh05@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can debug code faster than I can find my keys. Also, I’m a chai enthusiast!
 
