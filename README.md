@@ -29,12 +29,10 @@ I'm a **Backend Software Engineer** and Coding Lunatic!
 
 ---
 
-<!-- Optional: GitHub Stats Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=govindersingh&show_icons=true&hide_border=true&theme=radical" alt="Govinder's GitHub stats" />
-</p>
+<div align="center">
 
-<!-- Optional: Top Languages Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govindersingh&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
-</p>
+| Stats 📈 | Streak 🔥 | Languages 🗣️ |
+|---|---|---|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=govindersingh&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=govindersingh&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=govindersingh&theme=gruvbox) |
+
+</div>
